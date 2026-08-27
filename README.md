@@ -1,7 +1,7 @@
 # Data Science Portfolio - Basava Sanketh B N
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills. It is updated on the regular basis.
 
-- **Email**: [sankethsankibn@gmail.com](sankethsankibn@gmail.com)
+- **Email**: [basavasankethbn@gmail.com](basavasankethbn@gmail.com)
 - **LinkedIn**: [linkedin.com/basava-sanketh-bn](https://www.linkedin.com/in/basava-sanketh-bn/)
 
 ## Projects
